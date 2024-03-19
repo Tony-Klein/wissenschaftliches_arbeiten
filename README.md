@@ -1,4 +1,4 @@
-# Wissenschaft_Wirtschaftsinformatik
+# Wissenschaftliches Arbeiten in der Wirtschaftsinformatik
 
 Dieses Repository bietet eine theoretische aber vor allem praktische Einstiegshilfe in "Wissenschaftliches Arbeiten" und orientiert sich stark an folgender Literatur:
 
